@@ -17,7 +17,7 @@
     "websockets"
   ],
   "author": "Alex T <alex@tzapu.com> (http://tzapu.com)",
-  "contributors": {"Gabriele Lauricella <gab.lau@gmail.com.com> (https://github.com/gablau)"},
+  "contributors": ["Gabriele Lauricella <gab.lau@gmail.com.com> (https://github.com/gablau)"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tzapu/node-red-contrib-blynk-websockets/issues"
