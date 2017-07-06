@@ -307,7 +307,7 @@ module.exports = function(RED) {
                      } else {*/
                     switch (cmd.type) {
                         case MsgType.HW:
-                            //case MsgType.BRIDGE:
+                        case MsgType.BRIDGE:
                             switch (cmd.operation) {
                                 //input nodes
                                 case 'vw':
